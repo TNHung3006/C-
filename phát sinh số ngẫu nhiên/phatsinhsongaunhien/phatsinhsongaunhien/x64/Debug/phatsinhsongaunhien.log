@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(57,21): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(57,21): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(57,21): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(57,21): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(60,21): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(60,21): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\phatsinhsongaunhien\FileName.cpp(60,21): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+  phatsinhsongaunhien.vcxproj -> C:\Users\Admin-PC\Desktop\c++\visual\phát sinh số ngẫu nhiên\phatsinhsongaunhien\x64\Debug\phatsinhsongaunhien.exe

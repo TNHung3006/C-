@@ -1,0 +1,13 @@
+﻿  FileName.cpp
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(26,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(264,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(268,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(271,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(272,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(276,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(277,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(299,31): error C3861: 'getline': identifier not found
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(330,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(330,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(331,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin-PC\Desktop\c++\vd\vd\FileName.cpp(331,33): warning C4305: 'argument': truncation from 'double' to 'float'

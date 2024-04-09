@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Admin-PC\Desktop\c++, c#\visual\huongdoituong-oop\class\sophuc\sophuc\FileName.cpp(75,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin-PC\Desktop\c++, c#\visual\huongdoituong-oop\class\sophuc\sophuc\FileName.cpp(76,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  sophuc.vcxproj -> C:\Users\Admin-PC\Desktop\c++, c#\visual\huongdoituong-oop\class\sophuc\x64\Debug\sophuc.exe

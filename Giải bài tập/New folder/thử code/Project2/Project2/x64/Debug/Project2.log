@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Admin-PC\Desktop\c++\Giải bài tập\thử code\Project2\Project2\FileName.cpp(22,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Admin-PC\Desktop\c++\Giải bài tập\thử code\Project2\x64\Debug\Project2.exe

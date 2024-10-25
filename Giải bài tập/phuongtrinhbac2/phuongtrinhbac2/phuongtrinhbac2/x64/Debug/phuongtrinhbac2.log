@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\Source code\visual studio\c++\Giải bài tập\phuongtrinhbac2\phuongtrinhbac2\phuongtrinhbac2\FileName.cpp(22,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  phuongtrinhbac2.vcxproj -> D:\Source code\visual studio\c++\Giải bài tập\phuongtrinhbac2\phuongtrinhbac2\x64\Debug\phuongtrinhbac2.exe

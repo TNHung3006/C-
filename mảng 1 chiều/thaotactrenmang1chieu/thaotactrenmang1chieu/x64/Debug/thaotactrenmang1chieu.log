@@ -1,3 +1,3 @@
 ﻿  FileName.cpp
-C:\Users\Admin-PC\Desktop\c++\visual\mảng 1 chiều\thaotactrenmang1chieu\thaotactrenmang1chieu\FileName.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  thaotactrenmang1chieu.vcxproj -> C:\Users\Admin-PC\Desktop\c++\visual\mảng 1 chiều\thaotactrenmang1chieu\x64\Debug\thaotactrenmang1chieu.exe
+D:\Source code\visual studio\c++\mảng 1 chiều\thaotactrenmang1chieu\thaotactrenmang1chieu\FileName.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  thaotactrenmang1chieu.vcxproj -> D:\Source code\visual studio\c++\mảng 1 chiều\thaotactrenmang1chieu\x64\Debug\thaotactrenmang1chieu.exe

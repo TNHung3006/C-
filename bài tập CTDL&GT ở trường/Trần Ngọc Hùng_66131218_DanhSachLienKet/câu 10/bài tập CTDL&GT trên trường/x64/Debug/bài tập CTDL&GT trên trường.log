@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Bài 4, câu 10\bài tập CTDL&GT trên trường\Source.cpp(75,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Bài 4, câu 10\bài tập CTDL&GT trên trường\Source.cpp(95,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  bài tập CTDL&GT trên trường.vcxproj -> D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Bài 4, câu 10\x64\Debug\bài tập CTDL&GT trên trường.exe

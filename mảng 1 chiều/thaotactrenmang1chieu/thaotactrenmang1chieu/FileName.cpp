@@ -102,8 +102,9 @@ void themMotPhanTuVaoMang(int a[], int& n, int idx, int x)
 {
 	if (idx >= 0 && idx <= n)
 	{
-		for (int i = n; i > idx; i--)
+		for (int i = n; i > idx; i--) { //idx=2
 			a[i] = a[i - 1];
+		}
 		a[idx] = x;
 		n++;
 	}
@@ -114,8 +115,9 @@ void xoaMotPhanTuTrongMang(int a[], int& n, int idx)
 {
 	if (idx >= 0 && idx < n)
 	{
-		for (int i = idx; i < n - 1; i++)
+		for (int i = idx; i < n - 1; i++) {
 			a[i] = a[i + 1];
+		}
 		n--;
 	}
 }

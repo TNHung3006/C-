@@ -72,7 +72,26 @@ int main() {
 
 #endif	
 
-#if 1
+#if 0
+void double1(int x) {
+	x *= 2;
+}
+void double2(int &x) {
+	x *= 2;
+}
+void double3(int *x) { // x La con tro
+	(*x) *= 2; // toan tu giai tham chieu : dereference
+}
+			
+int main() {
+	int n = 1000;
+	double3(&n);
+	cout << n << endl;
+	return 0;
+}
+#endif
+
+#if 0
 
 void a(int &A) {
 	A++;
@@ -101,3 +120,72 @@ int main() {
 
 }
 #endif	
+
+#if 0
+struct sinhvien {
+	string hoten, que;
+	int tuoi;
+};
+
+int main() {
+	sinhvien y;
+	y.hoten = "Tran Ngoc Hung";
+	y.que = "Khanh Hoa";
+	y.tuoi = 18;
+	sinhvien* ptr = &y;
+
+	cout << "Ten: " << ptr->hoten << "\nTuoi: " << ptr->tuoi << "\nDiaChi: " << ptr->que; /* dùng ptr-><diachi> hoặc dùng (*ptr).<diachi>*/
+	return 0;
+}
+#endif
+
+#if 0
+int main() {
+	int a[5];
+
+	//xuất địa chỉ của mảng
+	cout << a << endl;				//in ra địa chỉ của giá trị đàu trong mảng 
+	for (int i = 0; i < 5; i++) {
+		cout << &a[i] << "\t";		//in ra địa chỉ của mỗi giá trị trong mảng và giá trị kề nhau cách nhau 4 byte vì kiểu dữ liệu là kiểu int.
+	}
+	cout << endl;					// 2 vòng lập for giống nhau
+	for (int i = 0; i < 5; i++) {
+		cout << (a + i) << "\t";	//in ra địa chỉ của mỗi giá trị trong mảng và giá trị kề nhau cách nhau 4 byte vì kiểu dữ liệu là kiểu int.
+	}
+	
+	//nhập mảng
+	cout << endl;
+	for (int i = 0; i < 5; i++) {
+		cin >> *(a + i); // giống cin a[i];
+	}
+	for (int i = 0; i < 5; i++) {
+		cout << a[i] << " ";
+	}
+
+	return 0;
+}
+#endif
+
+#if 1
+
+int main() {
+	//cấp phát phẩn tử động cho mảng sẽ tiện hơn.
+	// xin cấp phát bằng new và giải phòng bằng delete
+	//muốn giải phòng bộ nhớ đã cấp phát động của mảng a thì ta dùng từ khoá delete []a; 
+	int* a = new int[100000]; // cấp phát phần tử động cho mảng
+	//int a[5]; // cấp phát phần tử tĩnh cho mảng
+
+	//nhập mảng
+	for (int i = 0; i < 5; i++) {
+		cin >> a[i];
+	}
+	int* b = a; // khi này a và b sẽ giống nhau dùng a hoặc b đều được
+	for (int i = 0; i < 5; i++) {
+		cout << b[i] << " ";
+	}
+
+	delete[]a;
+
+	return 0;
+}
+#endif

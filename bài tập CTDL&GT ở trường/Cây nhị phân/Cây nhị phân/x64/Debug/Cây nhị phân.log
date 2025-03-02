@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Cây nhị phân\Cây nhị phân\Source.cpp(14,7): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Cây nhị phân\Cây nhị phân\Source.cpp(122,57): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Cây nhị phân\Cây nhị phân\Source.cpp(127): warning C4715: 'demnuttongtraiphai': not all control paths return a value
+  Cây nhị phân.vcxproj -> D:\Source code\visual studio\c++\bài tập CTDL&GT ở trường\Cây nhị phân\x64\Debug\Cây nhị phân.exe

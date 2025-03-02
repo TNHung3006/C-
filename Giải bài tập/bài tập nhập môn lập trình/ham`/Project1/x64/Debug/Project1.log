@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Source code\visual studio\c++\Giải bài tập\bài tập nhập môn lập trình\Project1\Project1\Source.cpp(25,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Source code\visual studio\c++\Giải bài tập\bài tập nhập môn lập trình\Project1\Project1\Source.cpp(14,6): warning C4101: 'x': unreferenced local variable
+D:\Source code\visual studio\c++\Giải bài tập\bài tập nhập môn lập trình\Project1\Project1\Source.cpp(50,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\Source code\visual studio\c++\Giải bài tập\bài tập nhập môn lập trình\Project1\x64\Debug\Project1.exe

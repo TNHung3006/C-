@@ -405,7 +405,7 @@ int main() {
         }
 
         // Nếu có đúng 2 chữ số bằng nhau, xuất số num
-        if (count == 1 && count1 == ) {
+        if (count == 1 && count1 == 1) {
             cout << num << endl;
         }
     }
